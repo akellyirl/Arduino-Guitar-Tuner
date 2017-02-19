@@ -20,7 +20,6 @@ void setup(){
   analogRead(A0);
   Serial.begin(115200);
   count = 0;
-  pinMode(13, OUTPUT);
 }
 
 
